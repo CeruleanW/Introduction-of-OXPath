@@ -1,0 +1,118 @@
+/*body {
+  padding: 20px;
+}*/
+
+.share-link {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-user-drag: none;
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  border-radius: 4px;
+  padding: 6px 11px 6px 8px;
+  font: 500 14px/1.2 Helvetica Neue, sans-serif;
+  -webkit-transition: background-color .4s;
+  transition: background-color .4s;
+}
+.share-link:hover {
+  -webkit-transition-duration: .2s;
+          transition-duration: .2s;
+}
+.share-link:active {
+  -webkit-transition-duration: 0s;
+          transition-duration: 0s;
+}
+.share-link.twitter {
+  background-color: #1B95E0;
+}
+.share-link.twitter:hover {
+  background-color: #1470a8;
+}
+.share-link.twitter:active {
+  background-color: #0e4b70;
+}
+.share-link.facebook {
+  background-color: #3C599F;
+}
+.share-link.facebook:hover {
+  background-color: #2d4377;
+}
+.share-link.facebook:active {
+  background-color: #1e2d50;
+}
+.share-link.google-plus {
+  background-color: #DB4437;
+}
+.share-link.google-plus:hover {
+  background-color: #a43329;
+}
+.share-link.google-plus:active {
+  background-color: #6e221c;
+}
+.share-link.email {
+  background-color: #46A546;
+}
+.share-link.email:hover {
+  background-color: #357c35;
+}
+.share-link.email:active {
+  background-color: #235323;
+}
+.share-link.print {
+  background-color: #61605F;
+}
+.share-link.print:hover {
+  background-color: #494847;
+}
+.share-link.print:active {
+  background-color: #313030;
+}
+.share-link.pinterest {
+  background-color: #BD081C;
+}
+.share-link.pinterest:hover {
+  background-color: #8e0615;
+}
+.share-link.pinterest:active {
+  background-color: #5f040e;
+}
+.share-link.tumblr {
+  background-color: #36465D;
+}
+.share-link.tumblr:hover {
+  background-color: #293546;
+}
+.share-link.tumblr:active {
+  background-color: #1b232f;
+}
+.share-link.linkedin {
+  background-color: #0077B5;
+}
+.share-link.linkedin:hover {
+  background-color: #005988;
+}
+.share-link.linkedin:active {
+  background-color: #003c5b;
+}
+.share-link.reddit {
+  background-color: #FF5700;
+}
+.share-link.reddit:hover {
+  background-color: #bf4100;
+}
+.share-link.reddit:active {
+  background-color: #802c00;
+}
+
+.share-link svg {
+  width: 1.2em;
+  height: 1.2em;
+  vertical-align: bottom;
+  margin-right: .4em;
+}
+.share-link path {
+  fill: currentColor;
+}
