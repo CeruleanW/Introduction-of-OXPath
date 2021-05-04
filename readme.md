@@ -1,5 +1,7 @@
 # Introduction of OXPath
 
-This set of web pages is an introduction about a web scrapping language called OXPath. The project is comprised of hard-coded HTML, CSS & JavaScript and most common basic front-end components. They all work together to make an interactive website.
+A set of web pages for introducing a web scrapping language, OXPath. 
+
+It is comprised of hard-coded HTML, CSS & JavaScript. All work together to make an interactive website.
 
 Demo: https://ceruleanw.github.io/Introduction-of-OXPath/
